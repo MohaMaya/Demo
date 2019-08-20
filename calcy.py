@@ -9,4 +9,6 @@ def multiply(x,y)
 	return x*y
 def divide(x,y)
 	"""Divide Function"""
-	return x/y
+	return y/x
+def mod(x,y)
+	return x%y
